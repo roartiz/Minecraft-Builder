@@ -17,14 +17,14 @@
   
 ## Setting up Paper Minecraft 1.21.10  
 - Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
-- Open Minecraft Launcher, ensure “Latest release” is selected, and click “Play”  
+- Open Minecraft Launcher, ensure “Latest release” is selected, and click Play  
 - Connect to the server! **(144.217.139.103:25568)**
 
 ## Setting up modded Minecraft 1.21.1   
 - Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 - Run ***neoforge-21.1.213-installer.jar*** and install with default settings  
-- Open Minecraft Launcher, select Java Edition, then NeoForge (to the left of the play button) and click “Play”  
+- Open Minecraft Launcher, select Java Edition, then NeoForge (to the left of the Play button) and click Play  
 - Exit the game  
 - Go to *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods* and delete anything in there  
-- Drag everything from the mods folder I gave you into the above folder once it’s empty  
+- Drag everything from the mods folder I gave you into the above folder 
 - Launch the game again and connect to the server! **(54.39.8.30:25571)** 
