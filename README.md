@@ -11,6 +11,6 @@ This guide covers setting up both installations you'll need to access the server
 
   
 
-## +Setting up Paper Minecraft 1.21.10
++Setting up Paper Minecraft 1.21.10
 
 ## +Setting up modded Minecraft 1.21.1
