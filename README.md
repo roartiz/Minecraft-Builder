@@ -3,8 +3,12 @@ An up-to-date repository for Minecraft installation files, utilites, and mods.
   
 
 #### Getting Started 
-This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, moving forward) and the modded install.  
-[Setup for Paper](#setting_up_paper_minecraft_1.21.10)
+This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, moving forward) and the modded install. Please pay careful attention to the version numbers, as they are very similar. Both methods are listed below:  
+
+[Paper Setup Instructions](#setting_up_paper_minecraft_1.21.10)
+[Modded Setup Instructions](#setting_up_modded_minecraft_1.21.1)
+
+
   
 
 ## Setting up Paper Minecraft 1.21.10
