@@ -1,5 +1,5 @@
 # Minecraft Builder
-<sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>
+><sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>
 
 +++ [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing) +++
   
