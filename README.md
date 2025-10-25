@@ -1,5 +1,5 @@
 # Minecraft Builder
-An up-to-date repository for Minecraft installation files, utilites, and mods.  
+An up-to-date collection of Minecraft installation files, utilites, and mods.  
   
 
 #### Getting Started 
