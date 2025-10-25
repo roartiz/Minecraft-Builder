@@ -4,7 +4,7 @@
 ### Getting Started 
 ><sup>This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on out) and the modded installation. *Please pay careful attention to the version numbers, as they are very similar.* Both methods are listed below:</sup>  
 
-\+ [CLICK HERE to download the files you need](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=drive_link) +  
+\+ [CLICK HERE to download the files you need](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing) +  
 \+ [Ensure you have the latest Java runtime installed](https://www.java.com/en/download/manual.jsp) +  
 \+ [Skip to Server Information](#server-information) +  
 \+ [Skip to Paper Setup Instructions](#setting-up-paper-minecraft-12110) +  
