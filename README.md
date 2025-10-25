@@ -1,5 +1,6 @@
 # Minecraft Builder
 An up-to-date collection of Minecraft installation files, utilites, and mods.  
+  
 \- [Jump to Paper Setup Instructions](#setting_up_paper_minecraft_1.21.10)  
 \- [Jump to Modded Setup Instructions](#setting_up_modded_minecraft_1.21.1)  
   
