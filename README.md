@@ -11,13 +11,13 @@
   
   
 ## Setting up Paper Minecraft 1.21.10  
-\- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
+- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
 - Install ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 - Open Minecraft Launcher, ensure “Latest release” is selected, and click “Play”  
 - Connect to the server! **(144.217.139.103:25568)**
 
 ## Setting up modded Minecraft 1.21.1  
-\- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
+- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
 - Install ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 - Run ***neoforge-21.1.213-installer.jar*** and install with default settings  
 - Open Minecraft Launcher, select Java Edition, then NeoForge (to the left of the play button) and click “Play”  
