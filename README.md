@@ -14,7 +14,7 @@
 \- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
 - Install MinecraftInstaller.msi if you don’t already have Minecraft installed  
 - Open Minecraft Launcher, ensure “Latest release” is selected, and click “Play”  
-- Connect to the server! (144.217.139.103:25568)  
+- Connect to the server! ### (144.217.139.103:25568)  
 
 ## Setting up modded Minecraft 1.21.1  
 \- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
@@ -24,4 +24,4 @@
 - Exit the game  
 - Go to C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods and delete anything in there  
 - Drag everything from the mods folder I gave you into the above folder once it’s empty  
-- Launch the game again and connect to the server! (54.39.8.30:25571)  
+- Launch the game again and connect to the server! ### (54.39.8.30:25571)  
