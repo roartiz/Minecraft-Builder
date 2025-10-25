@@ -1,5 +1,5 @@
 # Minecraft Builder
->An up-to-date collection of Minecraft installation files, utilites, and mods.
+<sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>
 
 +++ [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing) +++
   
@@ -13,9 +13,9 @@
   
   
 ## Server Information  
->Vanilla server (Paper 1.21.10)  
+Vanilla server (Paper 1.21.10)  
 `144.217.139.103:25568`
->Modded server (NeoForge 1.21.1)
+Modded server (NeoForge 1.21.1)
 `54.39.8.30:25571`
   
 ## Setting up Paper Minecraft 1.21.10  
