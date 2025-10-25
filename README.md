@@ -2,8 +2,8 @@
 <sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>  
 +++ [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing) +++
   
-\+ [Jump to Paper Setup Instructions](#setting-up-paper-minecraft-12110) *   
-\+ [Jump to Modded Setup Instructions](#setting-up-modded-minecraft-1211) *    
+\+ [Jump to Paper Setup Instructions](#setting-up-paper-minecraft-12110) +  
+\+ [Jump to Modded Setup Instructions](#setting-up-modded-minecraft-1211) +    
   
 
 ### Getting Started 
