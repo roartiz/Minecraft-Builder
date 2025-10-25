@@ -6,9 +6,9 @@
 
 \+ [CLICK HERE to download the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing) +  
 \+ [Ensure you have the latest Java runtime installed](https://www.java.com/en/download/manual.jsp) +  
-\+ [Jump to Server Information](#server-information) +  
-\+ [Jump to Paper Setup Instructions](#setting-up-paper-minecraft-12110) +  
-\+ [Jump to Modded Setup Instructions](#setting-up-modded-minecraft-1211) +    
+\+ [Skip to Server Information](#server-information) +  
+\+ [Skip to Paper Setup Instructions](#setting-up-paper-minecraft-12110) +  
+\+ [Skip to Modded Setup Instructions](#setting-up-modded-minecraft-1211) +    
   
   
 ## Server Information  
