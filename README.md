@@ -6,7 +6,7 @@
   
 
 ### Getting Started 
-This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on) and the modded install. Please pay careful attention to the version numbers, as they are very similar. Both methods are listed below:  
+<sup> This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on) and the modded install. Please pay careful attention to the version numbers, as they are very similar. Both methods are listed below:  </sup> 
   
   
   
