@@ -11,7 +11,7 @@
   
   
 ## Server Information  
-  <sup>Vanilla server (Paper 1.21.10)</sup> - `144.217.139.103:25568`   
+  Vanilla server (Paper 1.21.10) - `144.217.139.103:25568`   
   Modded server (NeoForge 1.21.1) - `54.39.8.30:25571`
   
 ## Setting up Paper Minecraft 1.21.10  
