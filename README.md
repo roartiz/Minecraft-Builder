@@ -17,3 +17,4 @@ This guide covers setting up both installations you'll need to access the server
 ## \+ Setting up Paper Minecraft 1.21.10
 
 ## \+ Setting up modded Minecraft 1.21.1
+[Link to Mods](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)
