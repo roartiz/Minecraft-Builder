@@ -15,14 +15,14 @@
   Modded server (NeoForge 1.21.1) - `54.39.8.30:25571`
   
 ## Setting up Paper Minecraft 1.21.10 
-- [Ensure you have the latest Java runtime](https://www.java.com/en/download/manual.jsp) +  
-- Install ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
+- [Ensure you have the latest Java runtime installed](https://www.java.com/en/download/manual.jsp)  
+- Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 - Open Minecraft Launcher, ensure “Latest release” is selected, and click “Play”  
 - Connect to the server! **(144.217.139.103:25568)**
 
 ## Setting up modded Minecraft 1.21.1  
-- [Ensure you have the latest Java runtime](https://www.java.com/en/download/manual.jsp) +  
-- Install ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
+- [Ensure you have the latest Java runtime installed](https://www.java.com/en/download/manual.jsp)  
+- Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 - Run ***neoforge-21.1.213-installer.jar*** and install with default settings  
 - Open Minecraft Launcher, select Java Edition, then NeoForge (to the left of the play button) and click “Play”  
 - Exit the game  
