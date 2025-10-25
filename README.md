@@ -1,14 +1,13 @@
 # Minecraft Builder
-><sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>
+><sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>  
+
+### Getting Started 
+><sup> This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on) and the modded install. Please pay careful attention to the version numbers, as they are very similar. Both methods are listed below:  </sup>
 
 \+ [Files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing) +   
 \+ [Jump to Server Information](#server-information) +  
 \+ [Jump to Paper Setup Instructions](#setting-up-paper-minecraft-12110) +  
 \+ [Jump to Modded Setup Instructions](#setting-up-modded-minecraft-1211) +    
-  
-
-### Getting Started 
-><sup> This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on) and the modded install. Please pay careful attention to the version numbers, as they are very similar. Both methods are listed below:  </sup> 
   
   
 ## Server Information  
