@@ -7,13 +7,9 @@ An up-to-date collection of Minecraft installation files, utilites, and mods.
 
 ### Getting Started 
 This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on) and the modded install. Please pay careful attention to the version numbers, as they are very similar. Both methods are listed below:  
-
-
-
   
-
   
-
+  
 ## Setting up Paper Minecraft 1.21.10  
 \- [Click here for a link to the files you need](https://drive.google.com/drive/folders/1a9OBjKgzqtkYc8GAqOuOoRYpovJw8gVs?usp=sharing)  
 - Install MinecraftInstaller.msi if you don’t already have Minecraft installed  
