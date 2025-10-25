@@ -1,5 +1,5 @@
 # Minecraft Builder
-><sup>An up-to-date collection of Minecraft installation files, utilites, and mods.</sup>  
+><sup>An up-to-date collection of installation instructions for Minecraft files, utilites, and mods.</sup>  
 
 ### Getting Started 
 ><sup>This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on out) and the modded installation. *Please pay careful attention to the version numbers, as they are very similar.* Both methods are listed below:</sup>  
