@@ -8,7 +8,7 @@
 \+ Skip to [Connection/Version Information](#server-connection--version-information)   
 \+ Skip to [Paper Setup Instructions](#setting-up-paper-minecraft-12110)   
 \+ Skip to [Modded Setup Instructions](#setting-up-modded-minecraft-1211)  
-\+ Skip to [Tips/Tricks/Suggestions](#setting-up-modded-minecraft-1211)  
+\+ Skip to [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
   
   
 ## Server Connection & Version Information  
@@ -34,3 +34,6 @@
 10. Launch the game again and connect to the server! `IP ADDRESS: 54.39.8.30:25571`
 
 ## Tips, Tricks, & Suggestions
+- Shaders can be found in Video Settings > Shaderpacks. Click on one, then Apply, then wait until the game unfreezes before clicking anything
+- Resource packs can be found in Video Settings > Resource Packs. Click on one, then Apply, then wait until the game unfreezes before clicking anything.
+- Video settings > Fullscreen > CHECK THE BOX
