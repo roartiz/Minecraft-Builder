@@ -10,7 +10,7 @@
 \+ [Skip to Modded Setup Instructions](#setting-up-modded-minecraft-1211)     
   
   
-## Server Information  
+## Server Version & Connection Information  
   Vanilla server (Paper 1.21.10) - `144.217.139.103:25568`   
   Modded server (NeoForge 1.21.1) - `54.39.8.30:25571`
   
