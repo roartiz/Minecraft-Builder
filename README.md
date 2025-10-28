@@ -28,6 +28,6 @@
 - Let the main menu load, then exit the game  
 - Go to *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods* and delete anything in there  
 - Drag everything from the ***mods.zip*** you downloaded into the above folder
-- Drag everything from the ***shaderpacks*** folder you downloaded into the *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\shaderpacks*
-- Drag everything from the ***resourcepacks*** folder you downloaded into the *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\resourcepacks*
+- Drag everything from the ***shaderpacks*** folder you downloaded into *...\Roaming\.minecraft\shaderpacks*
+- Drag everything from the ***resourcepacks*** folder you downloaded into *...\Roaming\.minecraft\resourcepacks*
 - Launch the game again and connect to the server! **(54.39.8.30:25571)** 
