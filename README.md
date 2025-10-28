@@ -11,8 +11,8 @@
   
   
 ## Server Connection & Version Information  
-  Vanilla server (Paper 1.21.10) - `144.217.139.103:25568`   
-  Modded server (NeoForge 1.21.1) - `54.39.8.30:25571`
+  Vanilla server (Paper 1.21.10) - `IP ADDRESS: 144.217.139.103:25568`   
+  Modded server (NeoForge 1.21.1) - `IP ADDRESS: 54.39.8.30:25571`
   
 ## Setting up Paper Minecraft 1.21.10  
 - Ensure you have the latest Java Runtime installed, if you haven't already (run ***Java Runtime 8u471.exe***)  
