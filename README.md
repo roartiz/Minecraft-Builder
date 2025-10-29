@@ -29,7 +29,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 3. Run ***neoforge-21.1.213-installer.jar*** and install with default settings  
 4. Open Minecraft Launcher, select the NeoForge installation (in the drop-down menu to the left of the Play button) and click Play  
 5. Let the main menu load, then exit the game  
-6. Go to *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods* and delete anything in there  
+6. Go to *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods* and delete anything in there, as well at the items in *\resourcepacks\* and *\shaderpacks\*  
 7. Drag everything from the ***mods.zip*** you downloaded into the above folder
 8. Drag everything from the ***shaderpacks*** folder you downloaded into *...\Roaming\.minecraft\shaderpacks*
 9. Drag everything from the ***resourcepacks*** folder you downloaded into *...\Roaming\.minecraft\resourcepacks*
