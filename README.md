@@ -4,7 +4,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 ### Getting Started 
 ><sup>This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on out) and the modded installation. *Please pay careful attention to the version numbers, as they are very similar.* Both methods are listed below:</sup>
 
-#Table of Contents
+# Table of Contents
 
 \+ [CLICK HERE](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing) to download the files you need     
 \+ Skip to [Connection/Version Information](#server-connection--version-information)   
