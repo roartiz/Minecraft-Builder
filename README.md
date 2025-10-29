@@ -27,7 +27,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 1. Ensure you have the latest Java Runtime installed, if you haven't already (run ***Java Runtime 8u471.exe***)  
 2. Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 3. Run ***neoforge-21.1.213-installer.jar*** and install with default settings  
-4. Open Minecraft Launcher, select NeoForge (to the left of the Play button) and click Play  
+4. Open Minecraft Launcher, select the NeoForge installation (in the drop-down menu to the left of the Play button) and click Play  
 5. Let the main menu load, then exit the game  
 6. Go to *C:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods* and delete anything in there  
 7. Drag everything from the ***mods.zip*** you downloaded into the above folder
