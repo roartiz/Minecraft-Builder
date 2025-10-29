@@ -1,5 +1,5 @@
 # Minecraft Builder
-An up-to-date collection of installation instructions for Minecraft files, utilites, and mods.
+An up-to-date collection of installation instructions for Minecraft files, utilites, and mods. [ALL NECESSARY FILES CAN BE FOUND HERE](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing). 
 
 ### Getting Started 
 >This guide covers setting up both installations you'll need to access the servers, Vanilla Minecraft (referred to as Paper, from here on out) and the modded installation. *Please pay careful attention to the version numbers, as they are very similar.* Both methods are listed below.
@@ -17,14 +17,12 @@ An up-to-date collection of installation instructions for Minecraft files, utili
   Modded server (NeoForge 1.21.1) - `IP ADDRESS: 54.39.8.30:25571`
   
 ## Setting up Paper Minecraft 1.21.10  
-0. \+ [CLICK HERE](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing) to download the files you need 
 1. Ensure you have the latest Java Runtime installed, if you haven't already (run ***Java Runtime 8u471.exe***)  
 2. Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 3. Open Minecraft Launcher, ensure “Latest release” is selected, and click Play  
 4. Connect to the server! `IP ADDRESS: 144.217.139.103:25568`  
 
 ## Setting up modded Minecraft 1.21.1   
-0. \+ [CLICK HERE](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing) to download the files you need 
 1. Ensure you have the latest Java Runtime installed, if you haven't already (run ***Java Runtime 8u471.exe***)  
 2. Run ***MinecraftInstaller.msi*** if you don’t already have Minecraft installed  
 3. Run ***neoforge-21.1.213-installer.jar*** and install with default settings  
