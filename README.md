@@ -36,6 +36,6 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 10. Launch the game again and connect to the server! `IP ADDRESS: 54.39.8.30:25571`
 
 ## Tips, Tricks, & Suggestions
-- Shaders can be found in Video Settings > Shaderpacks. Click on one, then Apply, then wait until the game unfreezes before clicking anything.
-- Resource packs can be found in Video Settings > Resource Packs. Click on one, then Apply, then wait until the game unfreezes before clicking anything.
-- Video settings > Fullscreen > CHECK THE BOX
+- Shaders can be found in Video Settings > Shaderpacks. Click on one, then Apply, then wait until the game unfreezes before clicking Done.
+- Resource packs can be found in Video Settings > Resource Packs. Click on one, then Apply, then wait until the game unfreezes before clicking Done.
+- Video settings > Fullscreen > ✅
