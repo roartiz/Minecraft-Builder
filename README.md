@@ -7,10 +7,10 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 # Table of Contents
 
 \+ [CLICK HERE](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing) to download the files you need     
-\+ Skip to [Connection/Version Information](#server-connection--version-information)   
-\+ Skip to [Paper Setup](#setting-up-paper-minecraft-12110)   
-\+ Skip to [Modded Setup](#setting-up-modded-minecraft-1211)  
-\+ Skip to [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
+\+ [Connection/Version Information](#server-connection--version-information)   
+\+ [Paper Setup](#setting-up-paper-minecraft-12110)   
+\+ [Modded Setup](#setting-up-modded-minecraft-1211)  
+\+ [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
   
   
 ## Server Connection & Version Information  
