@@ -12,7 +12,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 \+ [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
   
 ## Mod List  
-### Note: this is only a list of the functional, user-facing mods
+#### Note: this is only a list of the functional, user-facing mods
 - AppleSkin - shows hunger (saturation)/stamina (exhaustion) information on HUD
 - Better Advancements - adds progression/tutorial system
 - BetterF3 - allows you to customise the F3 (debug) screen
