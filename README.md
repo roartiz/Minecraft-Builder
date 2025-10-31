@@ -6,10 +6,12 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 
 # Table of Contents
     
+\+ [Mod List](#list-of-mods) 
 \+ [Connection/Version Information](#server-connection--version-information)   
 \+ [Modded Setup](#setting-up-modded-minecraft-1211)  
 \+ [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
   
+## Mod List  
   
 ## Server Connection & Version Information  
   Modded server (NeoForge 1.21.1) - `IP ADDRESS: 54.39.8.30:25571`
