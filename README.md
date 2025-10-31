@@ -2,7 +2,7 @@
 An up-to-date collection of installation instructions for Minecraft files, utilites, and mods. 
 
 ### Getting Started 
->This guide covers setting up the installation and required mods that you'll need to access the server. [All of the files you need can be found here](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing). 
+>This guide covers setting up the installation and required mods that you'll need to access the server. [The files you need can be found here](https://drive.google.com/drive/folders/1cEn3LVxxaCAZCpomDuQk2tDxF8ocPCHA?usp=sharing). 
 
 # Table of Contents
     
