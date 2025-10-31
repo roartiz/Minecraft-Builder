@@ -12,6 +12,15 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 \+ [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
   
 ## Mod List  
+- AppleSkin - shows hunger (saturation)/stamina (exhaustion) information on HUD
+- Better Advancements - adds progression/tutorial system
+- BetterF3 - allows you to customise the F3 (debug) screen
+- Biomes O’ Plenty - adds 50+ new biomes
+- Controlling - adds search bar to keybinds menu
+- Crafting on a stick - adds several craftable workbench on a stick options
+- Create - adds tools and blocks for building, decoration, and aesthetic automation
+- Decocraft - adds 3,000+ decor items
+  
   
 ## Server Connection & Version Information  
   Modded server (NeoForge 1.21.1) - `IP ADDRESS: 54.39.8.30:25571`
