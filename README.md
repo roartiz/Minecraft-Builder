@@ -38,6 +38,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 - Mouse Tweaks - adds contextual inventory functions to the mouse
 - MrCrayfish's Furniture - adds 440+ functional and cosmetic blocks
 - Nature’s Compass - allows you to locate specific biomes anywhere in the world
+- Not Enough Items - adds inventory management and recipe features
 - Pam’s Harvestcraft XYZ - adds 100+ new crops, trees, and craftable food items
 - Pipez - simple pipes to transfer energy, gas, items, and fluids
 - Productive Bees - adds resource-producing bee variants
