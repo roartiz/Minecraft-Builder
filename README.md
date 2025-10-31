@@ -6,7 +6,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 
 # Table of Contents
     
-\+ [Mod List](#list-of-mods) 
+\+ [Mod List](#list-of-mods)   
 \+ [Connection/Version Information](#server-connection--version-information)   
 \+ [Modded Setup](#setting-up-modded-minecraft-1211)  
 \+ [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
