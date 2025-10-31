@@ -12,6 +12,7 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 \+ [Tips/Tricks/Suggestions](#tips-tricks--suggestions)    
   
 ## Mod List  
+### Note: this is only a list of the functional, user-facing mods
 - AppleSkin - shows hunger (saturation)/stamina (exhaustion) information on HUD
 - Better Advancements - adds progression/tutorial system
 - BetterF3 - allows you to customise the F3 (debug) screen
@@ -20,6 +21,36 @@ An up-to-date collection of installation instructions for Minecraft files, utili
 - Crafting on a stick - adds several craftable workbench on a stick options
 - Create - adds tools and blocks for building, decoration, and aesthetic automation
 - Decocraft - adds 3,000+ decor items
+- Fluid Drawers - storage containers for various fluids
+- FTB Chunks - allows users to define and protect personal chunks
+- FTB Quests - adds progression/tutorial system
+- Gravestone - drops a recoverable storage container upon your death
+- Handcrafted - adds 250+ furniture pieces
+- Immersive Engineering - tech mod with new energy generation and processing tools
+- InvTweaks - adds inventory sorting and auto-replaces broken/exhausted item stacks
+- Iris - adds support for shaders
+- Jade - displays information for the block or item you're looking at
+- Just Enough Items (JEI) - shows recipes for crafting
+- Just Enough Resources (JER) - adds mob drops, dungeon loot, plant drops, and ore generation probabilities
+- JourneyMap - adds a customizable map with waypoint and sharing system
+- Macaw's XYZ - adds biomes, stairs, pavings, windows, doors, lights, fences, furniture, and bridges
+- Mekanism - tech mod with energy generation and processing tools
+- Mouse Tweaks - adds contextual inventory functions to the mouse
+- MrCrayfish's Furniture - adds 440+ functional and cosmetic blocks
+- Nature’s Compass - allows you to locate specific biomes anywhere in the world
+- Pam’s Harvestcraft XYZ - adds 100+ new crops, trees, and craftable food items
+- Pipez - simple pipes to transfer energy, gas, items, and fluids
+- Productive Bees - adds resource-producing bee variants
+- RightClickHarvest - harvest/replant crops with right click
+- SilentGear - upgradeable tool and armor mod, akin to Tinkers
+- Sophisticated Backpacks - adds serveral tiers of backpacks for expanded storage
+- Sophisticated Storage - adds serveral tiers of containers for expanded storage
+- Storage Drawers - adds interactive compartment storage
+- Terralith - adds new biomes and cave systems
+- TrashSlot - adds trashcan to inventory (drag multiple items, or a single item then press DELETE while hovering)
+- Twilight Forest - adds a new eerie biome and adventure
+- Useful Slime - adds slime sling and slime boots to crafting
+- What Are They Up To (WATUT) - visibly shows what other players are doing (menus, inventory, etc.)
   
   
 ## Server Connection & Version Information  
